@@ -1,2 +1,2 @@
-# Projeto-filmes
-Projeto usando somente Html e Css
+# Projeto.filmes
+Projeto usando somente Html e Css básico.
